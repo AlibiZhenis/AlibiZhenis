@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently interning at **Siemens Mobility** in Hong Kong
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **PyTorch**, **Spring Boot**, **FastAPI**
 
 - 📫 You can reach me at **alibizhenis4@gmail.com**
 
