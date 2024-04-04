@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alibi Zhenis</h1>
 <h3 align="center">A Kazakhstani Penultimate Year Computer Science Student in Hong Kong</h3>
 
-- 🔭 I’m currently interning at **Siemens Mobility** in Hong Kong
+- 🔭 I’m an incoming Summer Intern at Morgan Stanley
 
 - 🌱 I’m currently learning **FastAPI, PyTorch, fastai**
 
