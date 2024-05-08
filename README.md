@@ -3,7 +3,7 @@
 
 - 🔭 I’m an incoming Summer Intern at Morgan Stanley
 
-- 🌱 I’m currently learning **FastAPI, PyTorch, fastai**
+<!-- 🌱 I’m currently learning **FastAPI, PyTorch, fastai**-->
 
 - 📫 How to reach me **alibizhenis4@gmail.com**
 
