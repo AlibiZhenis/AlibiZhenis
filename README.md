@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alibi Zhenis</h1>
-<h3 align="center">A Kazakhstani Penultimate Year Computer Science Student in Hong Kong</h3>
+<h3 align="center">A Kazakhstani Computer Science Student in Hong Kong</h3>
 
 - 🔭 I’m an incoming Summer Intern at Morgan Stanley
 
