@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alibi Zhenis</h1>
-<h3 align="center">A Kazakhstani Computer Science Student in Hong Kong</h3>
-
-- 🔭 I’m an incoming Summer Intern at Morgan Stanley
-
-<!-- 🌱 I’m currently learning **FastAPI, PyTorch, fastai**-->
+<h3 align="center">A Quantitative Trader with a background in Computer Science</h3>
 
 - 📫 How to reach me **alibizhenis4@gmail.com**
 
